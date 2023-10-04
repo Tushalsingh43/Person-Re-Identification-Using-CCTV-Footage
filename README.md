@@ -332,8 +332,4 @@ I write the code in a similar manner, so let's find what I changed.
 
 - Pedestrian detection is bad? Try [Open Pose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) and [Spatial Transformer](https://github.com/layumi/Pedestrian_Alignment) to align the images.
 
-## Reference
-
-[1] Deng, Jia, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li Fei-Fei. "Imagenet: A large-scale hierarchical image database." In Computer Vision and Pattern Recognition, 2009. CVPR 2009. IEEE Conference on, pp. 248-255. Ieee, 2009.
-
 
